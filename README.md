@@ -31,20 +31,7 @@ A modern, intuitive matchmaking platform that connects people based on shared in
 
 ## 📸 Screenshots  
 
-### 🏠 Home  
-![Home](image-link-here)  
-
-### ⚡ Features  
-![Features](image-link-here)  
-
-### 💎 Premium  
-![Premium](image-link-here)  
-
----
-
-Made with ❤️ for meaningful connections  
-
-
+ 
 **Live Demo**
 
 [Live-Link](https://matchme-seven.vercel.app/)
